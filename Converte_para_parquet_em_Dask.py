@@ -35,10 +35,3 @@ if __name__ == '__main__':
 # Em seguida, usamos dask.compute com * para executar essas tarefas em paralelo.
 # O resultado final será a conversão de todos os arquivos em paralelo pelo Dask.
 
-##
-#>>>>>>>>>>>>>>>>>>>>> Paralelismo:dask.delay
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>Estudos:
-#https://docs.dask.org/en/stable/delayed-best-practices.html#:~:text=Compute%20on%20lots%20of%20computation%20at%20once,-To%20improve%20parallelism&text=delayed%20calls%20to%20define%20your,moving%20forward%20with%20your%20code.
-#https://tutorial.dask.org/03_dask.delayed.html
-#https://docs.dask.org/en/stable/delayed.html
-#https://community.revelo.com.br/dask-uma-ferramenta-pythonic-para-processamento-de-dados/
